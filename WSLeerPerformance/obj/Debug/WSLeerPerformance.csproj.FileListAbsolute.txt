@@ -1,0 +1,101 @@
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\obj\Debug\WSLeerPerformance.csprojResolveAssemblyReference.cache
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\roslyn\csc.exe
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\roslyn\System.Collections.Immutable.dll
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\roslyn\System.Reflection.Metadata.dll
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\roslyn\vbc.exe
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\roslyn\VBCSCompiler.exe
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\roslyn\VBCSCompiler.exe.config
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\WSLeerPerformance.dll.config
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\WSLeerPerformance.dll
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\WSLeerPerformance.pdb
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\obj\Debug\WSLeerPerformance.dll
+D:\Uriel\proyectos propios\WSLeerPerformance\WSLeerPerformance\obj\Debug\WSLeerPerformance.pdb
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\roslyn\csc.exe
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\roslyn\System.Collections.Immutable.dll
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\roslyn\System.Reflection.Metadata.dll
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\roslyn\vbc.exe
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\roslyn\VBCSCompiler.exe
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\roslyn\VBCSCompiler.exe.config
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\WSLeerPerformance.dll.config
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\WSLeerPerformance.dll
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\WSLeerPerformance.pdb
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.csprojResolveAssemblyReference.cache
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.dll
+D:\Uriel\proyectos propios\WSLeerPerformance V2.0.0.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.pdb
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\roslyn\csc.exe
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\roslyn\System.Collections.Immutable.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\roslyn\System.Reflection.Metadata.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\roslyn\vbc.exe
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\roslyn\VBCSCompiler.exe
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\roslyn\VBCSCompiler.exe.config
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\WSLeerPerformance.dll.config
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\WSLeerPerformance.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\WSLeerPerformance.pdb
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.pdb
+D:\TN\proyectos propios\WSLeerPerformance V2.1.0.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.csproj.CoreCompileInputs.cache
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\roslyn\csc.exe
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\roslyn\System.Collections.Immutable.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\roslyn\System.Reflection.Metadata.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\roslyn\vbc.exe
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\roslyn\VBCSCompiler.exe
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\roslyn\VBCSCompiler.exe.config
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\WSLeerPerformance.dll.config
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\WSLeerPerformance.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\WSLeerPerformance.pdb
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.csprojResolveAssemblyReference.cache
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.csproj.CoreCompileInputs.cache
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.dll
+D:\TN\proyectos propios\WSLeerPerformance V2.2.0.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.pdb
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\roslyn\csc.exe
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\roslyn\System.Collections.Immutable.dll
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\roslyn\System.Reflection.Metadata.dll
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\roslyn\vbc.exe
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\roslyn\VBCSCompiler.exe
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\roslyn\VBCSCompiler.exe.config
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\WSLeerPerformance.dll.config
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\WSLeerPerformance.dll
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\WSLeerPerformance.pdb
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.csprojResolveAssemblyReference.cache
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.dll
+D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.pdb
