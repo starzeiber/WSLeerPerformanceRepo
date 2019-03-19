@@ -8,6 +8,7 @@ using System.Configuration;
 using System.Diagnostics;
 using System.Net.Sockets;
 using System.Net;
+using EnvioCorreo;
 
 namespace WSLeerPerformance
 {
@@ -1153,6 +1154,38 @@ namespace WSLeerPerformance
             {
                 //cLogErrores.Escribir_Log_Error("Codigo_8: " + ex.Message);
                 return datosAdquiridos;
+            }
+            finally
+            {
+                GC.Collect();
+            }
+        }
+
+        [WebMethod(Description = "Solo para envía de correo de apps que no tienen salida de SMTP")]        
+        public RespuestaCorreo EnvioCorreoEspecial(configuracionMail configuracionMail, String titulo, String mensaje, Boolean esError)
+        {
+            EnviarCorreo enviarCorreo = new EnviarCorreo();
+            RespuestaCorreo respuestaCorreo = new RespuestaCorreo();
+            try
+            {
+                ConfiguracionCorreo configuracionCorreo = new ConfiguracionCorreo() {
+                    conCertificado= configuracionMail.conCertificado,
+                    listaDestinatarios= configuracionMail.listaDestinatarios,
+                    listaDestinatariosError=configuracionMail.listaDestinatariosError,
+                    pass= configuracionMail.pass,
+                    pathLogo=configuracionMail.pathLogo,
+                    puerto=configuracionMail.puerto,
+                    remitente=configuracionMail.remitente,
+                    smtp=configuracionMail.smtp,
+                    usuario=configuracionMail.usuario,                    
+                };
+                respuestaCorreo = enviarCorreo.EnvioCorreo(configuracionCorreo, titulo, mensaje, esError);
+                return respuestaCorreo;
+            }
+            catch (Exception ex)
+            {
+                respuestaCorreo.DescripcionError = ex.Message;
+                return respuestaCorreo;
             }
             finally
             {

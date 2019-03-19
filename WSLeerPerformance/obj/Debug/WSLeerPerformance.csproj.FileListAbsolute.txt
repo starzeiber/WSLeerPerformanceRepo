@@ -99,3 +99,13 @@ D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance
 D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.csprojResolveAssemblyReference.cache
 D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.dll
 D:\TN\Desarrollos\Proyectos propios\WSLeerPerformance V2.2.1.0\WSLeerPerformance\obj\Debug\WSLeerPerformance.pdb
+D:\TN\Desarrollos\Proyectos\WSLeerPerformanceRepo\WSLeerPerformance\bin\WSLeerPerformance.dll.config
+D:\TN\Desarrollos\Proyectos\WSLeerPerformanceRepo\WSLeerPerformance\bin\WSLeerPerformance.dll
+D:\TN\Desarrollos\Proyectos\WSLeerPerformanceRepo\WSLeerPerformance\bin\WSLeerPerformance.pdb
+D:\TN\Desarrollos\Proyectos\WSLeerPerformanceRepo\WSLeerPerformance\bin\EnvioCorreo.dll
+D:\TN\Desarrollos\Proyectos\WSLeerPerformanceRepo\WSLeerPerformance\bin\EnvioCorreo.pdb
+D:\TN\Desarrollos\Proyectos\WSLeerPerformanceRepo\WSLeerPerformance\obj\Debug\WSLeerPerformance.csprojAssemblyReference.cache
+D:\TN\Desarrollos\Proyectos\WSLeerPerformanceRepo\WSLeerPerformance\obj\Debug\WSLeerPerformance.csproj.CoreCompileInputs.cache
+D:\TN\Desarrollos\Proyectos\WSLeerPerformanceRepo\WSLeerPerformance\obj\Debug\WSLeerPerformance.csproj.CopyComplete
+D:\TN\Desarrollos\Proyectos\WSLeerPerformanceRepo\WSLeerPerformance\obj\Debug\WSLeerPerformance.dll
+D:\TN\Desarrollos\Proyectos\WSLeerPerformanceRepo\WSLeerPerformance\obj\Debug\WSLeerPerformance.pdb
